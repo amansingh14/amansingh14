@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amansingh14&label=Profile%20views&color=0e75b6&style=flat" alt="amansingh14" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amansingh14" alt="amansingh14" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amansingh14" alt="amansingh14" /></a> </p>
+
+<img align="right" alt="GIF" src="https://github.com/amansingh14/amansingh14/blob/4061a4d97a88b4998320ed9b2d63d33ffd1b9d87/giphy.gif" width="408" height="318" />
 
 - 🔭 I’m currently working on **terraform**
 
@@ -17,7 +19,6 @@
 
 - 📫 How to reach me **aman_singh41@outlook.com**
 
-<img align="right" alt="GIF" src="https://github.com/amansingh14/amansingh14/blob/4061a4d97a88b4998320ed9b2d63d33ffd1b9d87/giphy.gif" width="408" height="318" />
   
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
