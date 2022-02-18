@@ -24,7 +24,8 @@ I am a DevOps engineer at CloudCover. I love Automation, fixing stuff, gaming, t
 ```text
 Total: 2 mins
 
-TypeScript   1 min           █████████████████████▓░░░   87.11 % 
+Terrafrom   1 min           █████████████████████▓░░░   87.11 % 
+Custodian   1 min           █████████████████████▓░░░   95 %
 ```
 <!--END_SECTION:waka-->
 
