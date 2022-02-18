@@ -7,7 +7,7 @@
 
 I am a DevOps engineer at CloudCover. I love Automation, fixing stuff, gaming, traveling and love MUSIC most.
 
-<img align="right" alt="GIF" src="https://github.com/amansingh14/amansingh14/blob/4061a4d97a88b4998320ed9b2d63d33ffd1b9d87/giphy.gif" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/amansingh14/amansingh14/blob/4061a4d97a88b4998320ed9b2d63d33ffd1b9d87/giphy.gif" width="550" height="300" />
   
 
 **Talking about Personal Stuffs:**
@@ -18,19 +18,18 @@ I am a DevOps engineer at CloudCover. I love Automation, fixing stuff, gaming, t
 - 📫 How to reach me: aman_singh41@outlook.com;
 
 </br>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=amansingh14&" alt="amansingh14" /></p>
+
 
 
 📈 **My GitHub Stats:**
+<!--START_SECTION:waka-->
 
-<p>
+
+<!--END_SECTION:waka-->
+<br><br><br>
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amansingh14&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansingh14&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=false&layout=compact&langs_count=10&theme=radical"/>
 </p>
 </br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amansingh14" alt="amansingh14" /></a> </p>
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
