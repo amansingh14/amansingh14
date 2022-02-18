@@ -19,7 +19,9 @@ I am a DevOps engineer at CloudCover. I love Automation, fixing stuff, gaming, t
 
 </br>
 
+<!--START_SECTION:waka-->
 
+<!--END_SECTION:waka-->
 
 📈 **My GitHub Stats:**
 
