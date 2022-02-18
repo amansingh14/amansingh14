@@ -19,10 +19,6 @@ I am a DevOps engineer at CloudCover. I love Automation, fixing stuff, gaming, t
 
 </br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amansingh14&show_icons=true&locale=en&layout=compact" alt="amansingh14" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amansingh14&show_icons=true&locale=en" alt="amansingh14" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amansingh14&" alt="amansingh14" /></p>
 
 📈 **My GitHub Stats:**
