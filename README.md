@@ -22,10 +22,10 @@ I am a DevOps engineer at CloudCover. I love Automation, fixing stuff, gaming, t
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Total: 2 mins
+Total: 40 hours
 
-Terrafrom   1 min           █████████████████████▓░░░   87.11 % 
-Custodian   1 min           █████████████████████▓░░░   95 %
+Terrafrom   10 hours          █████████████████████▓░░░   87.11 % 
+Custodian   30 hours          █████████████████████▓░░░   95 %
 ```
 <!--END_SECTION:waka-->
 
