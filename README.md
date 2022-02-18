@@ -19,7 +19,7 @@ I am a DevOps engineer at CloudCover. I love Automation, fixing stuff, gaming, t
 
 </br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amansingh14&" alt="amansingh14" /></p>
+
 
 📈 **My GitHub Stats:**
 
@@ -27,7 +27,7 @@ I am a DevOps engineer at CloudCover. I love Automation, fixing stuff, gaming, t
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amansingh14&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansingh14&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=false&layout=compact&langs_count=10&theme=radical"/>
 </p>
-
+</br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amansingh14" alt="amansingh14" /></a> </p>
 
 <!--START_SECTION:waka-->
