@@ -15,7 +15,7 @@ I am a DevOps engineer at CloudCover. I love Automation, fixing stuff, gaming, t
 - 👨🏻‍💻 I’m currently working on something cool;
 - 🚀 I’m currently learning GCP and Terraform 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: aman_singh41@outlook.com;
+- 📫 How to reach me: aman_singh41@outlook.com
 
 </br>
 
