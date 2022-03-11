@@ -34,7 +34,7 @@ HCL              0 secs          ░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-<br><br><br>
+<br>
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amansingh14&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansingh14&show_icons=true&hide_border=false&layout=compact&langs_count=10&theme=radical"/>
