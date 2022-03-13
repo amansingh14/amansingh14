@@ -40,6 +40,6 @@ HCL              0 secs          ░░░░░░░░░░░░░░░�
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansingh14&show_icons=true&hide_border=false&layout=compact&langs_count=10&theme=radical"/>
 </p>
 </br>
-<img src="./badges/terraform.png"/>
+<img src="./hashicorp-certified-terraform-associate.png"/>
 </br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amansingh14" alt="amansingh14" /></a> </p>
