@@ -40,4 +40,6 @@ HCL              0 secs          ░░░░░░░░░░░░░░░�
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansingh14&show_icons=true&hide_border=false&layout=compact&langs_count=10&theme=radical"/>
 </p>
 </br>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="9711185e-29cf-46a1-bd13-3d343de28c9c" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+</br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amansingh14" alt="amansingh14" /></a> </p>
