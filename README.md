@@ -43,4 +43,4 @@ Text             4 mins          ▒░░░░░░░░░░░░░░�
 </br>
 <img src="./hashicorp-certified-terraform-associate.png"/>
 </br>
-<p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&margin-w=15"><img src="https://github-profile-trophy.vercel.app/?username=amansingh14" alt="amansingh14" /></a> </p>
+<p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=amansingh14&margin-w=15"><img src="https://github-profile-trophy.vercel.app/?username=amansingh14" alt="amansingh14" /></a> </p>
