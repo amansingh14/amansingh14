@@ -26,12 +26,12 @@ I am a DevOps engineer at CloudCover. I love Automation, fixing stuff, gaming, t
 <!--START_SECTION:waka-->
 
 ```text
-Terraform        3 hrs 19 mins   █████████▒░░░░░░░░░░░░░░░   37.98 %
-YAML             1 hr 56 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.18 %
-Opa              1 hr 35 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.11 %
-Python           1 hr 20 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.39 %
-Bash             8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
-Properties       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+Terraform        4 hrs 50 mins   ███████████▒░░░░░░░░░░░░░   45.01 %
+YAML             1 hr 51 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.27 %
+Python           1 hr 39 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.44 %
+Opa              1 hr 35 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.72 %
+Text             15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
+Bash             8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
 ```
 
 <!--END_SECTION:waka-->
