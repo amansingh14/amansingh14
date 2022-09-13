@@ -17,6 +17,7 @@ I am a DevOps engineer at CloudCover. I love Automation, fixing stuff, gaming, t
 - 🚀 I’m currently learning GCP and Terraform 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: aman_singh41@outlook.com
+- Latest work : [GCIFI-LZ](https://github.com/cldcvr/gcifi-lz)
 
 </br>
 </br>
