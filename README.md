@@ -28,12 +28,12 @@ I am a DevOps engineer at CloudCover. I love Automation, fixing stuff, gaming, t
 <!--START_SECTION:waka-->
 
 ```text
-YAML             5 hrs 39 mins   ███████████████▓░░░░░░░░░   62.82 %
-Docker           1 hr 11 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.23 %
-Opa              45 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 %
-Terraform        43 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 %
-Markdown         34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
-Logstash         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+YAML             5 hrs 26 mins   ████████████████▒░░░░░░░░   65.28 %
+Docker           1 hr 6 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.30 %
+Opa              43 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.73 %
+Markdown         34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.96 %
+Terraform        22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
+Logstash         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
 ```
 
 <!--END_SECTION:waka-->
