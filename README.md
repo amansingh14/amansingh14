@@ -28,12 +28,12 @@ I am a DevOps engineer at CloudCover. I love Automation, fixing stuff, gaming, t
 <!--START_SECTION:waka-->
 
 ```text
-YAML                       6 hrs 13 mins   ███████████▓░░░░░░░░░░░░░   46.10 %
-Terraform                  3 hrs 27 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.60 %
-Text                       1 hr 6 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 %
-Markdown                   53 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
-AWSCloudFormation (YAML)   38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
-GitIgnore file             35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
+YAML                       5 hrs 50 mins   ██████████░░░░░░░░░░░░░░░   39.58 %
+Terraform                  4 hrs 52 mins   ████████▒░░░░░░░░░░░░░░░░   33.05 %
+Markdown                   1 hr 8 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 %
+GitIgnore file             50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
+Text                       50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
+AWSCloudFormation (YAML)   38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
 ```
 
 <!--END_SECTION:waka-->
