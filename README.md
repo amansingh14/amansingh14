@@ -37,10 +37,6 @@ Git Config     14 mins         ▒░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-<br>
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amansingh14&show_icons=true&hide_border=false&&count_private=true&include_all_commits=true&theme=radical" />
-</p>
 </br>
 <p align="center">
 <img height="120cm" src="./hashicorp-certified-terraform-associate.png"/>
