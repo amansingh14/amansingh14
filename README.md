@@ -43,8 +43,8 @@ Git Config     14 mins         ▒░░░░░░░░░░░░░░░�
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amansingh14&show_icons=true&hide_border=false&layout=compact&langs_count=10&theme=radical"/>
 </p>
 </br>
-<p align="center">
-<img height="180cm" src="./hashicorp-certified-terraform-associate.png"/>
-<img height="100cm" src= "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/64894166"/>
+<p align="right">
+<img height="120cm" src="./hashicorp-certified-terraform-associate.png"/>
+<img height="120cm" src= "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/64894166"/>
 </br>
 <p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=amansingh14&margin-w=15"><img src="https://github-profile-trophy.vercel.app/?username=amansingh14" alt="amansingh14" /></a> </p>
