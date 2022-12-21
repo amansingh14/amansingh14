@@ -44,6 +44,6 @@ Git Config     14 mins         ▒░░░░░░░░░░░░░░░�
 </p>
 </br>
 <img src="./hashicorp-certified-terraform-associate.png"/>
-<img src= "./https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/64894166>
+<img src= "[./https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/64894166](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/64894166)">
 </br>
 <p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=amansingh14&margin-w=15"><img src="https://github-profile-trophy.vercel.app/?username=amansingh14" alt="amansingh14" /></a> </p>
