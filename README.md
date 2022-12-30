@@ -39,6 +39,7 @@ Text             0 secs          ░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 </br>
 <p align="center">
+<img height="120cm" src="https://www.credly.com/badges/367f54c0-d7ff-4c4a-91f7-5c84bf51819d/public_url"/>
 <img height="120cm" src="./hashicorp-certified-terraform-associate.png"/>
 <img height="120cm" src= "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/64894166"/>
 </br>
