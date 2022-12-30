@@ -39,7 +39,7 @@ Text             0 secs          ░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 </br>
 <p align="center">
-<div data-iframe-width="" data-iframe-height="120" data-share-badge-id="367f54c0-d7ff-4c4a-91f7-5c84bf51819d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<img height="120cm" src="./aws-certified-solutions-architect-associate.png"/>
 <img height="120cm" src="./hashicorp-certified-terraform-associate.png"/>
 <img height="120cm" src= "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/64894166"/>
 </br>
