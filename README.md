@@ -28,12 +28,12 @@ I am a DevOps engineer at CloudCover. I love Automation, fixing stuff, gaming, t
 <!--START_SECTION:waka-->
 
 ```text
-Terraform    1 hr 54 mins    ██████████████████░░░░░░░   71.97 %
-Text         19 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.06 %
-PowerShell   10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 %
-textmate     8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
-TypeScript   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
-Markdown     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+Terraform    1 hr 54 mins    ██████████████████▒░░░░░░   73.10 %
+Text         19 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.21 %
+PowerShell   10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
+textmate     5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
+TypeScript   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
+Markdown     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
 ```
 
 <!--END_SECTION:waka-->
