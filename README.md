@@ -28,12 +28,12 @@ I am a DevOps engineer at CloudCover. I love Automation, fixing stuff, gaming, t
 <!--START_SECTION:waka-->
 
 ```text
-YAML         3 hrs 27 mins   ███████████░░░░░░░░░░░░░░   43.73 %
-JavaScript   2 hrs 19 mins   ███████▒░░░░░░░░░░░░░░░░░   29.48 %
-JSON         1 hr 5 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.90 %
-Terraform    16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
-Opa          11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
-Makefile     10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
+YAML         2 hrs 32 mins   █████████▓░░░░░░░░░░░░░░░   38.37 %
+JavaScript   2 hrs 19 mins   ████████▓░░░░░░░░░░░░░░░░   35.18 %
+JSON         53 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.59 %
+Terraform    13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
+Makefile     10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+TypeScript   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
 ```
 
 <!--END_SECTION:waka-->
