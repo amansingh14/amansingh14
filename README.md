@@ -28,7 +28,9 @@ I am a DevOps engineer at CloudCover. I love Automation, fixing stuff, gaming, t
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JSON         8 mins          ██████████░░░░░░░░░░░░░░░   40.32 %
+JavaScript   7 mins          ████████▓░░░░░░░░░░░░░░░░   35.07 %
+YAML         5 mins          ██████░░░░░░░░░░░░░░░░░░░   24.61 %
 ```
 
 <!--END_SECTION:waka-->
