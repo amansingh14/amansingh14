@@ -28,11 +28,11 @@ I am a DevOps engineer at CloudCover. I love Automation, fixing stuff, gaming, t
 <!--START_SECTION:waka-->
 
 ```txt
-Docker             59 mins         ███████████▓░░░░░░░░░░░░░   46.32 %
-Python             29 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.21 %
-YAML               25 mins         █████░░░░░░░░░░░░░░░░░░░░   19.61 %
-Opa                9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 %
-Terraform          4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
+Docker             59 mins         ███████████▓░░░░░░░░░░░░░   46.88 %
+Python             30 mins         ██████░░░░░░░░░░░░░░░░░░░   23.62 %
+YAML               27 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.82 %
+Opa                9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 %
+Markdown           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
