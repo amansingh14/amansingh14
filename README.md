@@ -28,11 +28,11 @@ I am a DevOps engineer at CloudCover. I love Automation, fixing stuff, gaming, t
 <!--START_SECTION:waka-->
 
 ```txt
-Python             1 hr 16 mins    ███████████▒░░░░░░░░░░░░░   45.15 %
-JavaScript         27 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.11 %
-YAML               23 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.00 %
-Opa                15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.20 %
-requirements.txt   8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
+Python             4 hrs 10 mins   █████████████▒░░░░░░░░░░░   52.93 %
+TypeScript         1 hr 24 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.82 %
+YAML               49 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.48 %
+JavaScript         27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
+JSON               22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.73 %
 ```
 
 <!--END_SECTION:waka-->
