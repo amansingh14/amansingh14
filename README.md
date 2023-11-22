@@ -43,5 +43,6 @@ Go             9 mins          █░░░░░░░░░░░░░░░�
 <img height="120cm" src="./hashicorp-certified-terraform-associate.png"/>
 <img height="120cm" src= "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/64894166"/>
 <img height="120cm" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/69737099"/>
+<img height="120cm" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/86848742"/>
 </br>
 <p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=amansingh14&margin-w=15"><img src="https://github-profile-trophy.vercel.app/?username=amansingh14" alt="amansingh14" /></a> </p>
