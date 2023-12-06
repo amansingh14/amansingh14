@@ -6,7 +6,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=amansingh14:amansingh14)
 
-I am a DevOps engineer at CloudCover. I love Automation, fixing stuff, gaming, traveling and love MUSIC most.
+I am a DevOps engineer at Ollion. I love Automation, fixing stuff, gaming, traveling and love MUSIC most.
 
 <img align="right" alt="GIF" src="pic5.gif" width="550" height="300" />
   
