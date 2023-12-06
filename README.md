@@ -23,7 +23,14 @@ I am a DevOps engineer at CloudCover. I love Automation, fixing stuff, gaming, t
 </br>
 </br>
 </br>
-
+</br>
+<p align="center">
+<img height="120cm" src="./aws-certified-solutions-architect-associate.png"/>
+<img height="120cm" src="./hashicorp-certified-terraform-associate.png"/>
+<img height="120cm" src= "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/64894166"/>
+<img height="120cm" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/69737099"/>
+<img height="120cm" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/86848742"/>
+</br>
 📈 **My GitHub Stats:**
 <!--START_SECTION:waka-->
 
@@ -36,12 +43,4 @@ PHP            8 mins          ██▓░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-</br>
-<p align="center">
-<img height="120cm" src="./aws-certified-solutions-architect-associate.png"/>
-<img height="120cm" src="./hashicorp-certified-terraform-associate.png"/>
-<img height="120cm" src= "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/64894166"/>
-<img height="120cm" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/69737099"/>
-<img height="120cm" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/86848742"/>
-</br>
 <p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=amansingh14&margin-w=15"><img src="https://github-profile-trophy.vercel.app/?username=amansingh14" alt="amansingh14" /></a> </p>
