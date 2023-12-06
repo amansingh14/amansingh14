@@ -22,14 +22,13 @@ I am a DevOps engineer at CloudCover. I love Automation, fixing stuff, gaming, t
 </br>
 </br>
 </br>
-</br>
-</br>
 <p align="center">
 <img height="120cm" src="./aws-certified-solutions-architect-associate.png"/>
 <img height="120cm" src="./hashicorp-certified-terraform-associate.png"/>
 <img height="120cm" src= "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/64894166"/>
 <img height="120cm" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/69737099"/>
 <img height="120cm" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/86848742"/>
+</br>
 </br>
 📈 **My GitHub Stats:**
 <!--START_SECTION:waka-->
