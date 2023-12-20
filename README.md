@@ -37,11 +37,11 @@ I am a DevOps engineer at Ollion. I love Automation, fixing stuff, gaming, trave
 <!--START_SECTION:waka-->
 
 ```txt
-Terraform        1 hr 2 mins     ████████████░░░░░░░░░░░░░   47.95 %
-YAML             25 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.14 %
-HCL              20 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.33 %
-Markdown         19 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.89 %
-Shell Script     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+YAML             9 mins          █████████▒░░░░░░░░░░░░░░░   37.77 %
+Python           7 mins          ██████▓░░░░░░░░░░░░░░░░░░   27.18 %
+Text             5 mins          █████░░░░░░░░░░░░░░░░░░░░   19.60 %
+Terraform        2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 %
+HCL              0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
 ```
 
 <!--END_SECTION:waka-->
