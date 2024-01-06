@@ -37,11 +37,11 @@ I am a DevOps engineer at Ollion. I love Automation, fixing stuff, gaming, trave
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   1 hr 14 mins    ███████████████░░░░░░░░░░   59.96 %
-YAML         45 mins         █████████░░░░░░░░░░░░░░░░   36.42 %
-JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
-Bash         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+JavaScript   1 hr 31 mins    ██████████████░░░░░░░░░░░   56.15 %
+YAML         1 hr 4 mins     ██████████░░░░░░░░░░░░░░░   39.41 %
+JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+Text         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+Bash         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
 ```
 
 <!--END_SECTION:waka-->
