@@ -6,7 +6,35 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=amansingh14:amansingh14)
 
-I am a DevOps engineer at Ollion. I love Automation, fixing stuff, gaming, traveling and love MUSIC most.
+🚀 Innovative DevOps Engineer | AWS | GCP |Solutions Architect | Orchestrating Excellence
+
+Embarking on a journey of technological excellence, I am a seasoned DevOps Engineer with a relentless passion for optimizing cloud infrastructure and pioneering cutting-edge solutions. With over four years of hands-on experience, I bring a wealth of expertise in architecting resilient systems on AWS, GCP, and Azure.
+
+🔧 Strategic Skill Set:
+
+☁ Cloud Mastery: AWS, GCP, Azure
+🛠 DevOps Prowess: Terraform, Jenkins, GitHub Actions
+🚀 Container Expertise: Kubernetes, Helm
+🔐 Security Authority: Regula, Cloud Custodian, Open Agent Policy
+🔄 Automation Maestro: IaC (Terraform), Python
+📊 Observability Guru: Grafana, CloudWatch
+👾 Compliance Connoisseur: SOC2, MAS TRM, CIS, HIPAA
+🎓 Certification Accolades:
+
+🏆 AWS Certified Solutions Architect
+🏆GCP Professional
+🏆 Terraform Associate
+🎩 Red Hat Certified System Administrator
+🚀 System Engineer, OpenStack Administrator
+💡 Pinnacle Achievements:
+
+🌐 Architected and executed seamless multi-cloud deployments, harnessing the prowess of AWS, GCP, and Azure.
+🤖 Automated CI/CD pipelines with finesse using GitHub Actions and Jenkins, elevating software delivery efficiency.
+🛡 Implemented ironclad security measures employing Regula, Cloud Custodian, and Open Agent Policy.
+🌍 Spearheaded Kubernetes cluster deployments through Helm, ensuring unmatched scalability and reliability.
+🚀 Pioneered infrastructure compliance on GCP with tf-validator, crafting Rego policies that redefine security benchmarks.
+🔗 Elevate with Connection:
+I thrive on challenges that demand innovation and excellence at every turn. If you share a passion for pushing the boundaries of what's possible in DevOps, let's connect. Open to collaborations, discussions, and networking opportunities that drive transformative change.
 
 <img align="right" alt="GIF" src="pic5.gif" width="550" height="300" />
   
