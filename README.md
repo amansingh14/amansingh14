@@ -46,7 +46,7 @@
 - 🚀 I’m currently learning **Typescript** and **Ansible**
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: aman_singh41@outlook.com
-- Latest work : [GCIFI-LZ](https://github.com/cldcvr/gcifi-lz)
+- Latest Working on: [IOT Automation](https://akingsukh.medium.com/aws-sdk-iot-create-things-using-github-workflow-dispatcher-f949a4547c15)
 
 </br>
 </br>
