@@ -66,11 +66,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Go         30 mins         ██████████████████░░░░░░░   72.56 %
-textmate   9 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.99 %
-Markdown   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
-YAML       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
-JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
