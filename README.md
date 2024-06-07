@@ -1,7 +1,7 @@
 ### Hi there, I'm <a target="_blank">Aman Singh</a> 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/akingsukh)
-[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://akingsukh.medium.com/)
+[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://amansingh41.medium.com/)
 [![wakatime](https://wakatime.com/badge/user/35038c5c-2f2d-4e2a-975d-d3fd07993cd8.svg)](https://wakatime.com/@35038c5c-2f2d-4e2a-975d-d3fd07993cd8)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=amansingh14:amansingh14)
