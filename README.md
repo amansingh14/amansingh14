@@ -66,11 +66,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Terraform      1 hr 42 mins    ███████████░░░░░░░░░░░░░░   44.00 %
-Smarty         39 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.92 %
-Shell Script   35 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.17 %
-Markdown       31 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.49 %
-YAML           24 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.38 %
+Terraform   1 hr 18 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
