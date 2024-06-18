@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/akingsukh)
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://amansingh41.medium.com/)
-[![Medium Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/amaze_singh41)
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://dev.to/amaze_singh41)
 [![wakatime](https://wakatime.com/badge/user/35038c5c-2f2d-4e2a-975d-d3fd07993cd8.svg)](https://wakatime.com/@35038c5c-2f2d-4e2a-975d-d3fd07993cd8)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=amansingh14:amansingh14)
