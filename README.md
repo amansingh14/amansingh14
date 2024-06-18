@@ -66,7 +66,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Terraform   1 hr 15 mins    █████████████████████████   100.00 %
+Terraform        1 hr 19 mins    ██████████████████████░░░   87.97 %
+Markdown         8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.94 %
+GitIgnore file   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+HCL              0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+Smarty           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 ```
 
 <!--END_SECTION:waka-->
