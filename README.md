@@ -67,7 +67,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Bash           19 mins         ███████████████░░░░░░░░░░   60.41 %
+YAML           10 mins         ████████░░░░░░░░░░░░░░░░░   31.50 %
+Terraform      2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
+Shell Script   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
 ```
 
 <!--END_SECTION:waka-->
