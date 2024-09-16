@@ -61,6 +61,7 @@
 <img height="120cm" src= "https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/64894166"/>
 <img height="120cm" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/69737099"/>
 <img height="120cm" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/86848742"/>
+<img height="120cm" src="https://www.credly.com/badges/425bae5a-0ff5-483c-81c4-861b6852f628/public_url"/>
 </br>
 </br>
 📈 **My GitHub Stats:**
