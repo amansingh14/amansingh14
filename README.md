@@ -62,6 +62,7 @@
 <img height="120cm" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/69737099"/>
 <img height="120cm" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/86848742"/>
 <img height="120cm" src="./aws-certified-sysops-administrator-associate.png"/>
+<img height="120cm" src="./influxdb-3-0-essentials.png"/>
 </br>
 </br>
 📈 **My GitHub Stats:**
