@@ -69,9 +69,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Bash           12 mins         ████████████▓░░░░░░░░░░░░   51.30 %
-Terraform      9 mins          █████████▓░░░░░░░░░░░░░░░   39.00 %
-Shell Script   2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 %
+Bash           12 mins         ████████████████░░░░░░░░░   64.13 %
+Terraform      4 mins          ██████░░░░░░░░░░░░░░░░░░░   23.74 %
+Shell Script   2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.13 %
 ```
 
 <!--END_SECTION:waka-->
