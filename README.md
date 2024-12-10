@@ -69,11 +69,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JSON           5 mins          ███████████░░░░░░░░░░░░░░   44.34 %
-Python         2 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.82 %
-HCL            1 min           ███▓░░░░░░░░░░░░░░░░░░░░░   14.71 %
-Text           1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   12.95 %
-Shell Script   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
