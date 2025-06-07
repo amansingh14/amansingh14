@@ -69,11 +69,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python      5 mins          ████████▒░░░░░░░░░░░░░░░░   32.97 %
-Text        4 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.07 %
-Docker      3 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.78 %
-YAML        2 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.88 %
-Terraform   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
